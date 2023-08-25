@@ -8,7 +8,11 @@ Atualmente estou trabalhando com desenvolvimento web usando tecnologias como:
 * JavaScript
 * Css
 
-Além da área de desenvolvimento web, tenho interesse na área de controle de qualidade.
+Continuo estudando e adiquirindo conhecimentos na área de desenvolvimento web,
+mas também tenho interesse e curiosidade na área de controle de qualidade.
+
+Pode me visitar no LinkedIn
+💬  https://www.linkedin.com/in/iasmim-marinho-developer/
 
 ✨ Até mais! ✨
 <!--
